@@ -1,54 +1,163 @@
 {
 	"META": {
-		"repoName": "Scarlet Test Repo",
-		"repoIcon": "https://usescarlet.com/img/icon.png"
+		"repoName": "InstaHub Repo",
+		"repoIcon": "https://api.starfiles.co/direct/4KeWP1XScgUP"
 	},
 	"Tweaked": [{
-		"name": "YouTube Reborn",
-		"version": "16.20.5",
-		"icon": "",
-		"down": "https://resources.usescarlet.com/repo/IPAs/YouTube.ipa",
-		"dev": "Sarahh12099",
+		"name": "uYou (InstaHub Apollo)",
+		"version": "16.34.7",
+		"icon": "https://bit.ly/3kTkV7w",
+		"down": "https://instahub.app/unsigned/ytreborn.ipa",
+		"dev": "miro92",
 		"category": "Tweaked Apps",
 		"changelog": "We fixed the tubes that bring your videos - and some bugs too.",
-		"description": "True ad-less YouTube...",
+		"description": "The best tweak for the YouTube app!",
 		"bundleID": "com.google.ios.youtube",
 		"debs": [
 			"https://usescarlet.com/debs/YouTubeReborn.dylib",
 		],
 		"screenshots": [
-			"https://media.tenor.com/images/461a7c321425e447814ec90bb0a72faa/tenor.gif"
+			"https://bit.ly/3yXfIQN",
+			"https://bit.ly/3l2GUZD",
+			"https://bit.ly/3tkkwic",
+			"https://bit.ly/3DUe46h",
+			"https://bit.ly/3naz6HQ"
 		],
 		"contact": {
 			"web": "https://repo.twickd.com",
 			"twitter": "https://twitter.com/twickdrepo"
 		}
-	}, {
-		"name": "iPogo",
-		"version": "0.219.0",
-		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://ipogo.app/download/ipogo-2.2.0.ipa",
-		"category": "Tweaked Apps",
-		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-		"bundleID": "com.nianticlabs.pokemongo"
-	}, {
-		"name": "SpooferX",
-		"version": "0.217.1",
-		"icon": "https://usescarlet.com/icons/ipogo.png",
-		"down": "https://cdn.spooferx.com/SpooferX-0.217.1-0.39.ipa",
-		"category": "Tweaked Apps",
-		"changelog": "- Added Support for Latest version\n- Bug Fixes",
-		"description": "SpooferX for Pokémon GO is an enhanced edition of the Pokémon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
-		"bundleID": "com.nianticlabs.pokemongo"
-	}, {
+	}, 
+	 {
+            "name": "LumaFusion",
+            "version": "v2.4.4",
+            "icon": "https://i.ibb.co/sb15YWn/E4-B40159-FCCE-4-CEC-A2-F8-426-CABC7-F39-C.png",
+            "down": "https://instahub.app/ipas/LumaFusion-InstaHub.ipa",
+            "dev": "Luma Touch LLC",
+            "category": "Tweaked Apps",
+            "description": "The most popular mobile video editing app for iOS is now better than ever! LumaFusion offers powerful features and an elegant UI.",
+            "bundleID": "com.luma-touch.LumaFusion",
+            "screenshots": [
+                "https://luma--touch-com.cdn.ampproject.org/i/s/luma-touch.com/wp-content/uploads/2020/07/iPad-iPhone-combo-luma-fusion-2-3-web-980x749.png",
+                "https://luma-touch.com/wp-content/uploads/2020/07/11-inch-iPad-Pro-LumaFusion-2-3-Web-e1598306509735.png",
+                "https://luma-touch.com/wp-content/uploads/2020/07/11-inch-iPad-Pro-LumaFusion-2-3-Web-Fox.png",
+            ],
+            "contact": [
+                "https://twitter.com/lumatouch"
+            ]
+        },
+        	 {
+            "name": "iTorrent",
+            "version": "v1.8.3",
+            "icon": "https://bit.ly/38r9oGD",
+            "down": "https://github.com/XITRIX/iTorrent/releases/download/v1.8.3/iTorrent.ipa",
+            "dev": "Vinogradov Daniil",
+            "category": "Tweaked Apps",
+            "description": "The most popular mobile video editing app for iOS is now better than ever! LumaFusion offers powerful features and an elegant UI.",
+            "bundleID": "com.luma-touch.LumaFusion",
+            "contact": [
+                "https://twitter.com/X1TRIX"
+            ]
+        },
+				{
+			"name": "LastPass",
+			"version": "4.8.0",
+			"icon": "https://bit.ly/3zG4vpj",
+			"down": "https://instahub.app/ipas/LastPass++.ipa.ipa",
+			"dev": "LogMeIn ,INC.",
+			"category": "Tweaked Apps",
+			"bundleID": "app.instahub.lastpass",
+			"description": "LastPass is a freemium password manager that stores encrypted passwords online. The standard version of LastPass comes with a web interface, but also includes plugins for various web browsers and apps for many smartphones. It also includes support for bookmarklets. LogMeIn, Inc. acquired LastPass in October 2015.",
+			"contact": [
+				"https://www.lastpass.com/",
+				"https://twitter.com/LastPass"
+			]
+		},
+		{
+			"name": "Clip",
+			"version": "1.0",
+			"icon": "https://bit.ly/3kPpteX",
+			"down": "https://instahub.app/ipas/clip.ipa",
+			"dev": "Riley Testut",
+			"category": "Tweaked Apps",
+			"bundleID": "app.instahub.clip",
+			"description": "Clip is a clipboard manager for iOS that can run in the background indefinitely, listening for changes to the clipboard and saving your clippings for later use. Normally this would be impossible without jailbreaking, but Clip uses several workarounds to achieve this functionality within the constraints imposed by iOS. Unfortunately, despite working just fine these workarounds are all against App Store rulesâ€¦which is what makes Clip perfect for AltStore ðŸŽ‰.",
+			"contact": [
+				"http://rileytestut.com/blog/2020/06/17/introducing-clip/",
+				"https://twitter.com/rileytestut"
+			]
+		},
+		{
+			"name": "Deezer",
+			"version": "14.19.5",
+			"icon": "https://bit.ly/3AbVPH2",
+			"down": "https://alphasign.fun/cercube5_signed.ipa",
+			"dev": "DEEZER SA",
+			"category": "Tweaked Apps",
+			"bundleID": "app.instahub.deezer",
+			"description": "Deezer is a French online music streaming service. It allows users to listen to music content from record labels, including Universal Music Group, Sony Music and Warner Music Group as well as podcasts on various devices online or offline.",
+			"contact": [
+				"https://www.deezer.com/en/company/about",
+				"https://twitter.com/Deezer"
+			]
+		},
+		{
+			"name": "MediaBox HD",
+			"version": "2.4.9.2",
+			"icon": "https://bit.ly/3yHHTE8",
+			"down": "https://instahub.app/ipas/mediaboxhd.ipa",
+			"dev": "MediaBox HD",
+			"category": "Tweaked Apps",
+			"bundleID": "app.instahub.mediabox",
+			"description": "MediaBox HD- The Best Entertainment App For You And Your Family - MediaBox HD | The best place to watch movies & show for FREE!.",
+			"contact": [
+				"https://mediaboxhd.net/",
+				"https://twitter.com/playbox_hd"
+			]
+		},
+	 {
+            "name": "AppCake",
+            "version": "v7.1.0",
+            "icon": "https://www.iphonecake.com/app/icon.png",
+            "down": "https://www.iphonecake.com/app/appcake_jb.ipa",
+            "dev": "iPhoneCake.com",
+            "category": "Tweaked Apps",
+            "description": "An example of Scarlet Tweak Injection !",
+            "bundleID": "com.iphonecake.appcakej",
+            "debs": [
+                "https://usescarlet.com/debs/libAppCake2.dylib"
+            ],
+            "screenshots": [
+                "https://silzee.com/appcake/images/latest-apacake-fetures.jpg",
+                "https://silzee.com/appcake/images/popular-img-appcake.jpg",
+                "https://silzee.com/appcake/images/tweaked-latest.jpg",
+                "https://silzee.com/appcake/images/download-PlankFilza.png",
+                "https://silzee.com/appcake/images/settings-app.jpg"
+            ],
+            "contact": [
+				"https://www.iphonecake.com/app/",
+				"https://twitter.com/iphonecake_com/"
+			]
+		},
+	{
 	"name": "Sposify++",
 		"version": "8.5.53",
-		"icon": "https://usescarlet.com/icons/spotify.png",
+		"icon": "https://api.starfiles.co/direct/ebZBsPSKAWuZ",
 		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
 		"category": "Tweaked Apps",
 		"description": "Sposify and Spotilife tweak merged into one app",
 		"bundleID": "com.spotify.client"
-	}, {
+	},
+	{
+	"name": "SpotUlt++",
+		"version": "8.5.65",
+		"icon": "https://api.starfiles.co/direct/ebZBsPSKAWuZ",
+		"down": "https://resources.usescarlet.com/repo/IPAs/SpotifySpos.ipa",
+		"category": "Tweaked Apps",
+		"description": "Sposify and Spotilife tweak merged into one app",
+		"bundleID": "com.spotify.client"
+	},
+	{
 	"name": "Instagram Rhino",
 		"version": "187.0",
 		"icon": "https://iosninja.io/img/ipas/instagram_rhino.png",
@@ -56,11 +165,12 @@
 		"category": "Tweaked Apps",
 		"bundleID": "com.rhino.InstagramApp"
 	}],
+	
 	"Jailbreaks": [{
 			"name": "Taurine",
 			"version": "1.1.0",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.0/Taurine-1.1.0.ipa",
+			"icon": "https://api.starfiles.co/direct/GbRlJJv2cN05",
+			"down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.1/Taurine-1.1.1.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
 			"description": "Time to get amped.",
@@ -77,7 +187,7 @@
 		{
 			"name": "Odyssey",
 			"version": "1.3.3",
-			"icon": "https://theodyssey.dev/assets/images/icon.png",
+			"icon": "https://api.starfiles.co/direct/y78Fjk6Zr6e2",
 			"down": "https://github.com/Odyssey-Team/Odyssey/releases/download/1.3.3/Odyssey-1.3.3.ipa",
 			"dev": "Odyssey-Team",
 			"category": "Jailbreaks",
@@ -95,7 +205,7 @@
 		{
 			"name": "unc0ver",
 			"version": "6.2.0",
-			"icon": "https://cdn.discordapp.com/attachments/752890955236901055/829731825802018896/unc0ver.png",
+			"icon": "https://api.starfiles.co/direct/xSF7Y3iNWu4q",
 			"down": "https://unc0ver.dev/downloads/6.2.0/15e18e455ca3971433261443a42355ee883a2092/unc0ver_Release_6.2.0.ipa",
 			"dev": "unc0ver-Team",
 			"category": "Jailbreaks",
@@ -112,23 +222,144 @@
 			]
 		}
 	],
+		"Photo & Video": [{
+			"name": "Picsart",
+			"version": "14.3.1",
+			"icon": "https://bit.ly/3fKt7VB",
+			"down": "https://instahub.app/ipas/PicsArt.ipa",
+			"dev": "PicsArt, Inc.",
+			"category": "Photo & Video",
+			"description": "The art of photo and video editing is currently widely loved, and there are countless applications for that are released in the market. Each application has its style and theme, giving users a wide choice in designing or editing photos with endless creativity. Among those photo editing apps, PicsArt is the most popular and powerful on the market. <br />The app currently has over 1 billion downloads worldwide, and thatâ€™s a testament to the versatility and capabilities it offers to its users. Furthermore, the application covers a wide variety of artistic disciplines, such as photo, video, and drawing, making it a versatile and convenient tool that photographers desire.",
+			"bundleID": "app.instahub.picsart",
+			"screenshots": [
+				"https://bit.ly/3jtib0U",
+				"https://bit.ly/38oGuH4"
+			],
+			"contact": [
+				"https://picsart.com/",
+				"https://twitter.com/PicsartStudio"
+			]
+		},
+		{
+			"name": "Bazaart",
+			"version": "6.8.2",
+			"icon": "https://bit.ly/37z4R4i",
+			"down": "https://app.ignition.fun/apps/bazaart/bazaart.ipa",
+			"dev": " Bazaart Ltd.",
+			"category": "Photo & Video",
+			"bundleID": "app.instahub.bazaart",
+			"description": "Bazaart is a photo editor and graphic design app that will help you easily create beautiful photo collages, professional designs and stunning collage art.",
+			"screenshots": [
+				"https://bit.ly/2WzUET5",
+				"https://bit.ly/3kCA4Kec"
+			],
+			"contact": [
+				"https://www.bazaart.me/",
+				"https://www.instagram.com/bazaart/"
+			]
+		},
+		{
+			"name": "Procreate Pocket",
+			"version": "5.0.8",
+			"icon": "https://bit.ly/2VR7bl5",
+			"down": "https://dwdisc.com/fdl/b8be4885-0694-4645-b457-3c8f9bfaae3c/Procreate-v5-0-8.ipa",
+			"dev": " Savage Interactive Pty Ltd.",
+			"category": "Photo & Video",
+			"bundleID": "app.instahub.procreate",
+			"description": "Procreate Pocket is iPhone App of the Year because: It allows artists of all levels to paint, draw, and sketch without compromise, wherever inspiration strikes. ... Mix a full spectrum of colors on the app's digital palette. Switching among canvas layers, tools, and effects is as seamless as an unbroken line.",
+			"screenshots": [
+				"https://bit.ly/3zOEofH",
+				"https://bit.ly/3yMD7EL",
+				"https://bit.ly/3n2l1w2"
+			],
+			"contact": [
+				"https://procreate.art/pocket",
+				"https://twitter.com/procreateapp?lang=en"
+			]
+		},
+				{
+			"name": "FaceTune",
+			"version": "2.7.3",
+			"icon": "https://bit.ly/3yv9XtA",
+			"down": "https://dwdisc.com/fdl/88e9d5d6-eac8-4bd4-b677-1d0f986e09da/Facetune-v2-8-5.ipa",
+			"dev": " Lightricks Ltd.",
+			"category": "Photo & Video",
+			"bundleID": "app.instahub.facetune",
+			"description": "Facetune helps you look your Hollywood best, even in photos taken on mobile phones.",
+			"screenshots": [
+				"https://bit.ly/3kx16CI",
+				"https://bit.ly/3t2PkDL"
+			],
+			"contact": [
+				"https://www.facetuneapp.com/",
+				"https://twitter.com/facetune"
+			]
+		},
+		{
+			"name": "Procam6",
+			"version": "2.0.8",
+			"icon": "https://bit.ly/2VFlN6F",
+			"down": "https://app.ignition.fun/apps/procam6/procam6.ipa",
+			"dev": "Samer Azzam",
+			"category": "Photo & Video",
+			"bundleID": "app.instahub.procam",
+			"screenshots": [
+				"https://bit.ly/3BoDpTW",
+				"https://bit.ly/3ypQRFa",
+				"https://bit.ly/3BwLdmN"
+			],
+			"contact": [
+				"https://unc0ver.dev/",
+				"https://twitter.com/pwn20wnd"
+			]
+		}
+	],
 	"Hacked Games": [{
-		"name": "GTA SA iOSGods",
+		"name": "GTA SA",
 		"version": "2.02.11",
-		"icon": "https://is3-ssl.mzstatic.com/image/thumb/Purple123/v4/03/88/11/03881119-53b8-9d2d-74f4-84ceb616255d/source/512x512bb.jpg",
+		"icon": "https://api.starfiles.co/direct/eAnpmNsMAwgX",
 		"down": "https://resources.usescarlet.com/repo/IPAs/gtaSAiOSGods.ipa",
 		"category": "Hacked Games",
 		"description": "Hack Features:\n- God Mode\n- Infinite Ammo\n- Gun and cars spawn at house\n- Infinite Stamina",
 		"bundleID": "com.rockstargames.gta3sa"
-		}
-	],
+		},
+		{
+		"name": "iPogo",
+		"version": "2.2.0",
+		"icon": "https://usescarlet.com/icons/ipogo.png",
+		"down": "https://instahub.app/unsigned/ipogo.ipa",
+		"category": "Hacked Games",
+		"description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
+		"bundleID": "com.nianticlabs.pokemongo"
+	}, 
+	{
+		"name": "SpooferX",
+		"version": "0.217.1",
+		"icon": "https://api.starfiles.co/direct/O4acrOhtoBbk",
+		"down": "https://cdn.spooferx.com/SpooferX-0.217.1-0.39.ipa",
+		"category": "Hacked Games",
+		"changelog": "- Added Support for Latest version\n- Bug Fixes",
+		"description": "SpooferX for PokÃ©mon GO is an enhanced edition of the PokÃ©mon GO app, adding a joystick and with free teleport ! It also include a lot of others features : IV checking, enhanced throw, auto walking and GPX, fast catch trick, a live feed and even a map with everything around you !",
+		"bundleID": "com.nianticlabs.pokemongo"
+	}
+],
 	"Emulators": [{
 		"name": "iNDS",
 		"version": "1.10.8",
-		"icon": "https://iosninja.io/img/ipas/inds.png",
+		"icon": "https://api.starfiles.co/direct/FT5szPTZoW3f",
 		"down": "https://github.com/iNDS-Team/iNDS/releases/download/v1.10.8/iNDS.ipa",
 		"category": "Emulators",
 		"description": "",
 		"bundleID": "net.nerd.iNDS"
-		}]
-}
+		},
+	{
+		"name": "Delta",
+		"version": "1.3",
+		"icon": "https://bit.ly/3zBmM6Y",
+		"down": "https://instahub.app/ipas/delta.ipa",
+		"category": "Emulators",
+		"description": "Delta emulator is the first functional experimental open-source app to emulate Super Nintendo Entertainment System, Nintendo 64, Game Boy Advance and Game Boy Color on Android and iOS devices. Please note that the purpose of the emulator is not to enable illegal activity.",
+		"bundleID": "com.nianticlabs.pokemongo"
+	}
+	]
+	}
