@@ -360,6 +360,33 @@
 		"category": "Emulators",
 		"description": "Delta emulator is the first functional experimental open-source app to emulate Super Nintendo Entertainment System, Nintendo 64, Game Boy Advance and Game Boy Color on Android and iOS devices. Please note that the purpose of the emulator is not to enable illegal activity.",
 		"bundleID": "com.nianticlabs.pokemongo"
+	},
+        {
+		"name": "Play",
+		"version": "2.8.0",
+		"icon": "https://bit.ly/3zBmM6Y",
+		"down": "https://instahub.app/ipas/delta.ipa",
+		"category": "Emulators",
+		"description": "Delta emulator is the first functional experimental open-source app to emulate Super Nintendo Entertainment System, Nintendo 64, Game Boy Advance and Game Boy Color on Android and iOS devices. Please note that the purpose of the emulator is not to enable illegal activity.",
+		"bundleID": "com.nianticlabs.pokemongo"
+	},
+        {
+		"name": "Provenance",
+		"version": "3.0.1",
+		"icon": "https://bit.ly/3zBmM6Y",
+		"down": "https://instahub.app/ipas/delta.ipa",
+		"category": "Emulators",
+		"description": "Delta emulator is the first functional experimental open-source app to emulate Super Nintendo Entertainment System, Nintendo 64, Game Boy Advance and Game Boy Color on Android and iOS devices. Please note that the purpose of the emulator is not to enable illegal activity.",
+		"bundleID": "com.nianticlabs.pokemongo"
+	},
+	{
+		"name": "Play!",
+		"version": "1.0.2 (Not Under Development)",
+		"icon": "https://bit.ly/3zBmM6Y",
+		"down": "https://instahub.app/ipas/delta.ipa",
+		"category": "Emulators",
+		"description": "Delta emulator is the first functional experimental open-source app to emulate Super Nintendo Entertainment System, Nintendo 64, Game Boy Advance and Game Boy Color on Android and iOS devices. Please note that the purpose of the emulator is not to enable illegal activity.",
+		"bundleID": "com.nianticlabs.pokemongo"
 	}
 	]
 	}
